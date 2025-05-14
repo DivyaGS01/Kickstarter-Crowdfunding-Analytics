@@ -60,3 +60,6 @@ The project reduced the manual effort needed to analyze Kickstarter campaigns by
 📊 Identify peak funding periods.
 
 📊 Make data-backed decisions to optimize campaign strategies.
+
+# Live Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiYjk4YWMwOWYtMGZjZC00NjZjLWE4YjQtY2FhNjZkMWJmZDg1IiwidCI6ImVmOTBkYTBkLWFkODEtNDIyYS1iYzZiLTRhNDA4NmQ4OTUyZCJ9
